@@ -1,0 +1,43 @@
+00000 - 20 proibido
+00001 - 30 proibido
+00002 - 50 proibido
+00003 - 60 proibido
+00004 - 70 proibido
+00005 - 80  proibido
+00006 - derestriction
+7 - 100 proibido
+8 - 120 proibido 
+9 - proibido ligeiro ultrapassar
+10 - proibido pesado ultrapassar 
+11 - perigo entroncamento 
+12 - unico amarelo e branco
+13 - unico cedencia de passagem
+14 - stop
+15 - proibiçao circulacao
+16 - proibicao pesados 
+17 - sentido unico
+18 - perigo
+19 - perigo curva esquerda
+20 - perigo curva direita
+21 - perigo curvas seguidas
+22 - perigo lombas
+23 - perigo estrada escorregadia
+24 - perigo estreitamento de via
+25 - perigo obras
+26 - perigo semaforos
+27 - perigo peoes
+28 - perigo crianças
+29 - perigo bicicletas
+30 - perigo gelo
+31 - perigo veados
+32 - derestriction
+33 - mandatory direita
+34 - mandatory esquerda
+35 - mandatory frente
+36 - mandatory frente e direita
+37 - mandatory frente e esquerda
+38 - mandatoy baixo direita
+39 - mandatory baixo esquerda
+40 - mandatory rotunda
+41 - derestriction ultrapassagem ligeiros
+42 - derestriction ultrapassagem pesados
