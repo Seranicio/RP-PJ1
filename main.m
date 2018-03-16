@@ -1,4 +1,8 @@
-% Reading Hue Dataset
-TSFolder=dir('Dataset/GTSRB_Final_Training_HueHist/GTSRB/Final_Training/HueHist');
-TSFolder=TSFolder(~ismember({TSFolder.name},{'.','..'}));
+% Clearing Workspace and Command Window.
+clear;
+clc;
 
+% Reading Hue Dataset
+
+% Getting All Folders
+TSFolder = GetFolders('Dataset/GTSRB_Final_Training_HueHist/GTSRB/Final_Training/HueHist');
