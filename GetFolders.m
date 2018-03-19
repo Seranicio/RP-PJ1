@@ -3,7 +3,7 @@ function TSFolderFinal = GetFolders(location)
     TSFolder=TSFolder(~ismember({TSFolder.name},{'.','..'}));
 
     for i=1:length(TSFolder)
-        aux = "Dataset/GTSRB_Final_Training_HueHist/GTSRB/Final_Training/HueHist/" + TSFolder(i).name;
+        aux = strcat(location,TSFolder(i).name);
         aux = char(aux);
         TSFolderFinal.Path{i} = aux;
         TSFolderFinal.folder{i}=dir(aux);
