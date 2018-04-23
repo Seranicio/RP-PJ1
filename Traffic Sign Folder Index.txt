@@ -4,7 +4,7 @@
 00003 -60 proibido
 00004 -70 proibido
 00005 -80 proibido
-00006 -derestriction
+00006 -80 derestriction
 7 -100 proibido
 8 -120 proibido 
 9 -proibido ligeiro ultrapassar
@@ -30,7 +30,7 @@
 29 -perigo bicicletas
 30 -perigo gelo
 31 -perigo veados
-32 -derestriction
+32 -derestriction todos
 33 -mandatory direita
 34 -mandatory esquerda
 35 -mandatory frente
