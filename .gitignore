@@ -1,1 +1,16 @@
-Dataset/
+Images/
+Backup/
+ReportImages/
+Dataset/Backup/
+Dataset/GTSRB_Final_Test_Haar/
+Dataset/GTSRB_Final_Test_HOG/
+Dataset/GTSRB_Final_Test_HueHist/
+Dataset/GTSRB_Final_Training_Haar/
+Dataset/GTSRB_Final_Training_HOG/
+Dataset/GTSRB_Final_Training_HueHist/
+Dataset/Images/
+Dataset/Testing_Images/
+Dataset/ScenaryB BinaryTree Layout 1
+Dataset/ScenaryB BinaryTree Layout 2
+HOG_DATA.mat
+HOG_DATA2.mat
